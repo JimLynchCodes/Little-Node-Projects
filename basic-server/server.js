@@ -1,6 +1,7 @@
 var http = require('http');
 
 var handleRequest = function (req, res) {
+	console.log("Handling request")
 	res.writeHead(200, {'Content-Type': 'text/plain'});
 	res.end('Welcome to Node Essential Training\n');
 };

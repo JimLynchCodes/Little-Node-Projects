@@ -1,3 +1,6 @@
-module.exports = function (announcement) {
-	console.log('Announcing: ' + announcement);
-};
+module.exports = {
+	announce: function (announcement) {
+		console.log('Announcing: ' + announcement)
+	}
+}
+
