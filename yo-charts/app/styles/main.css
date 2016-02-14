@@ -59,6 +59,17 @@ body {
   margin-top: 28px;
 }
 
+.opaq80 {
+ opacity: 0.7;
+}
+
+.opaq88 {
+  opacity: 0.8;
+}
+
+
+
+
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
   .container {
