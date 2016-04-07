@@ -1,0 +1,16 @@
+{
+  "name": "node-scraper",
+  "version": "0.0.1",
+  "description": "Node program that scrapes a website, and saves whatever information you want to save.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jim Lynch <jim@wisdomofjim.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "express": "^4.13.4",
+    "request": "^2.67.0"
+  }
+}
