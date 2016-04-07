@@ -1,0 +1,16 @@
+.md-subheader.md-altTheme-theme{
+  color: red !important;
+  background-color:red !important; }
+.md-subheader.md-altTheme-theme.md-primary{
+  color: red !important; }
+.md-subheader.md-altTheme-theme.md-accent{
+  color: red !important; }
+.md-subheader.md-altTheme-theme.md-warn {
+  color: red !important; }
+.md-3-line.md-no-proxy.ng-scope {
+  color: red !important;
+  background-color:red !important;
+}
+.md-list-item-text {
+  color: red !important;
+}
